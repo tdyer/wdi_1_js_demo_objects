@@ -75,9 +75,9 @@ In JavaScript, there are 6 primitive data types:
 * undefined
 * Symbol _(new in ECMAScript 6)_
 
-### [Primitive Wrapper Objects](PrimitiveWrappers.md)
+### [Primitive Wrapper Objects](http://adripofjavascript.com/blog/drips/javascripts-primitive-wrapper-objects.html)
 
-Some of the javascript primitives have corresponding objects, i.e. wrappers. We are going to avoid the use of these. But, [Here is More Info](PrimitiveWrappers.md) about how primitives work with wrappers.
+Some of the javascript primitives have corresponding objects, i.e. wrappers. We are going to avoid the use of these. But, [Here is More Info](http://adripofjavascript.com/blog/drips/javascripts-primitive-wrapper-objects.html) about how primitives work with wrappers.
 
 * String for the string primitive.
 * Number for the number primitive.
